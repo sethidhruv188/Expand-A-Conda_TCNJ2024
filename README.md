@@ -1,5 +1,6 @@
 # Expand-a-Conda: Vision System for Search and Rescue
 
+![Expand-a-Conda in Action](/path/to/your/Screenshot_2024-02-18_at_10.41.31_AM.png)
 
 ## Inspiration
 
@@ -28,4 +29,10 @@ The constraint of limited computing power pushed us to optimize our algorithms a
 ## What's Next for Expand-a-Conda
 
 Our roadmap includes scaling up the computing power to achieve a higher frame rate, resulting in faster and more accurate detection capabilities. Additionally, we plan to incorporate a user identification system using the OpenCV library, which will aid in the swift identification of victims.
+
+---
+
+🚧 **Under Construction** 🚧
+
+This project is actively being developed, and new features are being constructed! Stay tuned for updates.
 
