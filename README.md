@@ -34,5 +34,5 @@ Our roadmap includes scaling up the computing power to achieve a higher frame ra
 
 🚧 **Under Construction** 🚧
 
-This project is actively being developed, and new features are being constructed! Stay tuned for updates.
+This project is no longer being developed, and new features are not being constructed!
 
