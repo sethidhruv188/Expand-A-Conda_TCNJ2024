@@ -4,7 +4,7 @@
 
 ## Inspiration
 
-Kyrollos Girgis, one of our team members, visited his relatives in Turkey last year. Moved by firsthand accounts from relatives in post-earthquake Turkey, he was inspired to create the Expand-a-Conda for our hackathon project. In response to stories of friends lost and agonizing waits for rescue, we developed an innovation born from real-life experiences, designed to swiftly detect and locate individuals buried in debris. This initiative combines technology with empathy, offering a lifeline in the aftermath of disasters.
+Moved by firsthand accounts from relatives in post-earthquake Turkey, we were was inspired to create the Expand-a-Conda for our hackathon project. In response to stories of friends lost and agonizing waits for rescue, we developed an innovation born from real-life experiences, designed to swiftly detect and locate individuals buried in debris. This initiative combines technology with empathy, offering a lifeline in the aftermath of disasters.
 
 ## What It Does
 
